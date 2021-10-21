@@ -1,6 +1,8 @@
 # remote-desktop-viewer
 Simple remote desktop viewer written in C#
 
+<img src="ss/img1.png">
+
 ## Requirement
 Visual Studio 2013
 ## How to compile
