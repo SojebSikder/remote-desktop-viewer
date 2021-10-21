@@ -1,7 +1,7 @@
 # remote-desktop-viewer
 Simple remote desktop viewer written in C#
 
-<img src="ss/img1.png">
+![alt text](https://github.com/SojebSikder/remote-desktop-viewer/blob/main/ss/img1.PNG?raw=true)
 
 ## Requirement
 Visual Studio 2013
